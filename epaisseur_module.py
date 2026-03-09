@@ -325,7 +325,12 @@ def get_thickness_in_time_space(file_bil,indices_temps,indices_espace,file_out,p
     return(epaisseurs2D, v_temps, v_espace,prop_spectres_gardes)
 
 def calcul(datacube,v_lambdas,prominence,distance,i_temps,i_espace,prop_max_outliers,num,n):
-    
+    '''
+    prominence, distance : paramètres de la détections des extrema
+    num : paramètre d'affichage pour debug pendant le calcul
+    n : indice de réfraction
+    '''
+
     #données en un point de l'espace et du temps
     datacube_i = datacube[i_temps,i_espace,:]
 
