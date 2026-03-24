@@ -1,0 +1,18 @@
+files,e0 (µm),rf (µm)
+"04-04-23,040423 780rpm-SpatialCrop-RGB bosse,w 1 point par t",10.671205916785397,100
+"06-04-23,060423 700rpm3-SpatialCrop-RGB bosse,w 1 point par t",11.374801911298716,100
+"09-02-23,Current Scan 700rpm-SpatialCrop-RGB bosse bonxy,w 1 point par t",11.72659990855538,100
+"26-01-23,manip2-CropWavelengths-SpatialCrop-RGB bosse bonxy,w 1 point par t",14.306451888437564,100
+"06-04-23,060423 500rpm-SpatialCrop-RGB bosse,w 1 point par t",16.182707873806425,100
+"06-02-23,Current Scan-SpatialCrop-RGB bosse,w 1 point par t",18.29349585734639,100
+"15-12-23,425 rpm 30s V30 tige 100-SpatialCrop-RGB bosse gauche,w",18.762559853688607,100
+"27-07-23,550rpm 0,5mm-RGB ligne bosse,w 1 point par t, 174",15.244579881121991,250
+"24-07-23,500rpm 0,5mm2-RGB ligne bosse,w 1 point par t, 174",16.182707873806425,250
+"24-07-23,500rpm 0,5mm2-RGB ligne bosse gauche,w 174",16.182707873806425,250
+"27-10-23,500 rpm tige 250-RGB ligne pincement droite,w 178",16.182707873806425,250
+"27-10-23,500 rpm tige 250-RGB ligne pincement gauche,w 178",16.182707873806425,250
+"17-07-23,450rpm 500mm ferme diaphragme-RGB ligne bosse gauche,w 1 point par t, 218",18.29349585734639,250
+"19-10-23,420 rpm tige 250-RGB ligne bosse,w",21.10787983539968,250
+"28-07-23,420rpm 0,5mm-RGB ligne bosse gauche,w 1 point par t, 174",21.10787983539968,250
+"18-07-23,450rpm 1mm-RGB ligne bosse,w 1 point par t",18.29349585734639,500
+"18-07-23,450rpm 1mm 2-RGB ligne bosse,w 218",18.29349585734639,500
